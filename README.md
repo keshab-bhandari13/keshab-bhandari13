@@ -9,7 +9,7 @@ Building practical software with an interest in scalable systems, clean architec
 
 [![GitHub](https://img.shields.io/badge/GitHub-keshab--bhandari13-181717?style=flat-square&logo=github)](https://github.com/keshab-bhandari13)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhandarikeshab284@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=keshab-bhandari13&style=flat-square&color=0e75b6)
+
 
 </div>
 
