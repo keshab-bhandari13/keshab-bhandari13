@@ -9,7 +9,9 @@ Building practical software with an interest in scalable systems, clean architec
 
 [![GitHub](https://img.shields.io/badge/GitHub-keshab--bhandari13-181717?style=flat-square&logo=github)](https://github.com/keshab-bhandari13)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhandarikeshab284@gmail.com)
-
+ <a href="https://www.linkedin.com/in/keshab-bhandari-656b01383/" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 </div>
 
